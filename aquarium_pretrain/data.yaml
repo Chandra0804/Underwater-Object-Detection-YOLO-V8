@@ -1,0 +1,8 @@
+# Path
+train: /Users/saiteja/Downloads/aquarium_pretrain/train/images
+val: /Users/saiteja/Downloads/aquarium_pretrain/valid/images
+test: /Users/saiteja/Downloads/aquarium_pretrain/test/images
+
+# Classes
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
